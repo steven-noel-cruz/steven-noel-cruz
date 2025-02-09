@@ -11,7 +11,7 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/steven-noel-cruz/Threat_Hunt_Event_-TOR-Usage-.md/blob/main/threat-hunting-scenario-tor.md)**
-
+- **[Threat Hunting Scenario (Operation Jackal Spear)](https://github.com/steven-noel-cruz/threat-hunting-scenario-Operation-Jackal-Spear)**
 <hr/>
 
 ## 🤳 Connect With Me
