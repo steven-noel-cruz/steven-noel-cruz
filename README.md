@@ -12,6 +12,7 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/steven-noel-cruz/Threat_Hunt_Event_-TOR-Usage-.md/blob/main/threat-hunting-scenario-tor.md)**
 - **[Threat Hunting Scenario (Operation Jackal Spear)](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Operation-Jackal-Spear.md)**
+- **[Threat Hunting Scenario (Bryce Montgomery Incident)](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Bryce-Montgomery-Incident.md)**
 <hr/>
 
 ## 🤳 Connect With Me
