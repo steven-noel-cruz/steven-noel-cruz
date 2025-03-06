@@ -2,6 +2,16 @@
 
 I’m deeply passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, these projects allow me to explore the dynamic and evolving world of cybersecurity. I invite you to explore my work and see how I’ve contributed to strengthening security operations and improving processes.
 
+## 🚀 Join The Cyber Range: Limited to 960 Members!
+
+I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on experience in a LIVE production SOC (Security Operations Center) using **enterprise-grade cybersecurity tools** like Tenable, Microsoft Sentinel, Defender for Endpoint, and Azure VMs.
+
+- 📚 **Courses Available**: Vulnerability Management, Threat Hunting, and Incident Response.  
+- 🎙️ Plus, weekly live sessions to ask questions or chat about IT/Cyber careers!  
+
+**[Sign up now before space runs out!](https://www.skool.com/cyber-range/about?ref=43d9cab46b984a589b8d05c5d14e7e0a)**
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -26,12 +36,3 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/stevennoelcallcruz
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
-0
-:
-00
-
