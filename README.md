@@ -23,6 +23,7 @@ I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/steven-noel-cruz/Threat_Hunt_Event_-TOR-Usage-.md/blob/main/threat-hunting-scenario-tor.md)**
 - **[Threat Hunting Scenario (Operation Jackal Spear)](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Operation-Jackal-Spear.md)**
 - **[Threat Hunting Scenario (Bryce Montgomery Incident)](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Bryce-Montgomery-Incident.md)**
+- **[Threat Hunt Challenge: Azure Abuse Notice](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Threat-Hunt-Challenge-Azure-Abuse-Notice.md)**
 <hr/>
 
 ## 🤳 Connect With Me
