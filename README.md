@@ -24,6 +24,7 @@ I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on 
 - **[Threat Hunting Scenario (Operation Jackal Spear)](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Operation-Jackal-Spear.md)**
 - **[Threat Hunting Scenario (Bryce Montgomery Incident)](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Bryce-Montgomery-Incident.md)**
 - **[Threat Hunt Challenge: Azure Abuse Notice](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Threat-Hunt-Challenge-Azure-Abuse-Notice.md)**
+- **[Threat Hunt Challenge: The Great Admin Heist](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/The-Great-Admin-Heist.md)**
 <hr/>
 
 ## 🤳 Connect With Me
