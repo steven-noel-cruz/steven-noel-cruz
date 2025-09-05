@@ -27,6 +27,7 @@ I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on 
 - **[Threat Hunt Challenge: The Great Admin Heist](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/The-Great-Admin-Heist.md)**
 - **[Threat Hunt Challenge: Deep Access The Adversary](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Threat-Hunt-Deep-Access-The-Adversary.md)**
 - **[Threat Hunt Challenge: Lurker](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Lurker_Threat_Hunt_Report.md)**
+- **[Threat Hunt Challenge: Papertrail](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Papertrail_Threat_Hunt_Report.md)**
 <hr/>
 
 ## 🤳 Connect With Me
