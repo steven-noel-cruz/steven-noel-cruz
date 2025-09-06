@@ -16,7 +16,7 @@ I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/steven-noel-cruz/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/steven-noel-cruz/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
