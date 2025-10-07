@@ -28,7 +28,7 @@ I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on 
 - **[Threat Hunt Challenge: Deep Access The Adversary](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Threat-Hunt-Deep-Access-The-Adversary.md)**
 - **[Threat Hunt Challenge: Lurker](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Lurker_Threat_Hunt_Report.md)**
 - **[Threat Hunt Challenge: Papertrail](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Papertrail_Threat_Hunt_Report.md)**
-- **[Release on 10/06/2025 Threat Hunt Challenge: Hide Your RDP](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Hide_Your_RDP_Threat_Hunt_Report.md)**
+- **[Threat Hunt Challenge: Hide Your RDP](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/hide_your_rdp_report.md)**
 <hr/>
 
 ## 🤳 Connect With Me
