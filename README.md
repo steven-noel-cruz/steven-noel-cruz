@@ -30,6 +30,7 @@ I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on 
 - **[Threat Hunt Challenge: Papertrail](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/Papertrail_Threat_Hunt_Report.md)**
 - **[Threat Hunt Challenge: Hide Your RDP](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/hide_your_rdp_report.md)**
 - **[Threat Hunt Challenge: SupportTool Intrusion Analysis](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/SupportTool-Intrusion-Analysis.md)**
+- **[Threat Hunt Challenge: azuki_soc_investigation](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/azuki_soc_investigation.md)**
 <hr/>
 
 ## 🤳 Connect With Me
