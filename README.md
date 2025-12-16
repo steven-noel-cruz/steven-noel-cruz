@@ -2,7 +2,7 @@
 
 I’m deeply passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, these projects allow me to explore the dynamic and evolving world of cybersecurity. I invite you to explore my work and see how I’ve contributed to strengthening security operations and improving processes.
 
-## 🚀 Join The Cyber Range: Limited to 960 Members!
+## 🚀 Join The Cyber Range!
 
 I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on experience in a LIVE production SOC (Security Operations Center) using **enterprise-grade cybersecurity tools** like Tenable, Microsoft Sentinel, Defender for Endpoint, and Azure VMs.
 
