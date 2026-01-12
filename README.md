@@ -33,6 +33,7 @@ I’m a member of **Josh Madakor’s Cyber Range**, where you can gain hands-on 
 - **[Threat Hunt Challenge: azuki soc investigation](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/azuki_soc_investigation.md)**
 - **[Threat Hunt Challenge: azuki soc investigation cargo hold](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/azuki_soc_investigation_cargo_hold.md)**
 - **[Threat Hunt Challenge: azuki soc investigation bridge takeover](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/azuki_soc_investigation_bridge_takeover.md)**
+- **[Threat Hunt Challenge: azuki soc investigation dead in the water](https://github.com/steven-noel-cruz/Threat-Hunt/blob/main/azuki_soc_investigation_dead_in_the_water.md)**
 <hr/>
 
 ## 🤳 Connect With Me
